@@ -7,6 +7,7 @@ The E-Commerce Back-end Sever is an ExpressJs server with a database supported w
 - Clone this repository
 - Open the directory in the terminal
 - run the following commands:
+- `cp .env.EXAMPLE .env`
 - `npm init -y`
 - `npm i`
 - `psql -U postgres`
